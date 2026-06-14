@@ -23,12 +23,17 @@ web únicas.
 
 ## 🛠️ Tecnologías & Herramientas
 
-**Seguridad**
 
-![Security](https://img.shields.io/badge/Endpoint_Security-003087?style=flat&logoColor=white)
-![Perimeter](https://img.shields.io/badge/Perimeter_Security-1BA0D7?style=flat&logoColor=white)
+**Seguridad Perimetral & Endpoint**
+
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E00?style=flat&logoColor=white)
+![Forcepoint DLP](https://img.shields.io/badge/Forcepoint_DLP-003087?style=flat&logoColor=white)
+![IronPort](https://img.shields.io/badge/Cisco_IronPort-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Tanium](https://img.shields.io/badge/Tanium-00A4B4?style=flat&logoColor=white)
+![Trend Micro](https://img.shields.io/badge/Trend_Micro-D71921?style=flat&logoColor=white)
+![Trellix](https://img.shields.io/badge/Trellix-6E3CBC?style=flat&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-222222?style=flat&logo=kalilinux&logoColor=white)
+
 
 **Nube**
 
